@@ -1,0 +1,33 @@
+[
+   {
+       "id":1,
+       "name":"Burguer King",
+       "ratings":3.5,
+       "tags":"Pollo - Burguer King - Hamburguesas - Broaster- Carne",
+       "img_url":"https://www.noticiasde.info/sites/default/files/styles/large/public/2019-10/Aprovechate-web_62.jpg?itok=1E3uodga"
+   },
+
+   {
+       "id":2,
+       "name":"KFC",
+       "ratings":4,
+       "tags":"Pollo - Kentucky Fried Chicken - Picante - Broaster",
+       "img_url":"https://www.ofertitas.es/wp-content/uploads/2019/04/kfc-promocion-menus-abril-2019.jpg"
+   },
+
+   {
+       "id":3,
+       "name":"Taco bell",
+       "ratings":3,
+       "tags":"Taco - Pollo - Picante - Carne",
+       "img_url":"https://i.ytimg.com/vi/ZaFRWrVMg3Y/maxresdefault.jpg"
+   },
+   {
+       "id":4,
+       "name":"Mac Donald's",
+       "ratings":5,
+       "tags":"Pollo - Mac Donald's - Hamburguesa - Broaster",
+       "img_url":"https://isic.es/wp-content/uploads/2020/06/1000X500_DTO_McDONALDS.png"
+   }
+
+]
